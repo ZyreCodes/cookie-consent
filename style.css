@@ -1,0 +1,42 @@
+.cookie-box {
+    background: black;
+    height: 250px;
+    width: 300px;
+    border-radius: 30px;
+    transition: opacity 0.5s;
+}
+
+.close_button {
+    border-style: hidden;
+    background: transparent;
+    color: white;
+    margin-left: 260px;
+    margin-top: 10px;
+    font-size: 26px;
+}
+
+.cookie_text {
+    border-style: hidden;
+    color: white;
+    background: transparent;
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    width: 200px;
+    margin-top: 5px;
+    margin-left: 25px;
+}
+
+.cookie_button {
+    border-style: hidden;
+    border-radius: 30px;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    margin-top: 40px;
+    margin-left: 175px;
+    height: 40px;
+    width: 100px;
+}
+
+.hide {
+    opacity: 0%;
+}
